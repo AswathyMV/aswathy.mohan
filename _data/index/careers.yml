@@ -1,43 +1,56 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-
 - name:
-    detail: fungai.org
+    detail: Government Engineering College Thrissur(http://gectcr.ac.in/)
+ 
   desc:
     detail: >
-      I created fungai.org with the aim helping scientists and enthusiasts to easily identify wild mushroom species
-      from images using deep learning technologies. This project is in partnership with Intel.
-      Initial prototype stack: JavaScript, ReactJS, jason-server, ImageNet, Heroku.
-      Upcoming stack: Tensorflow, Python, Docker.
+       Conducting Lectures for Final Year Computer Science Undergraduate students
+       Mentoring Undergraduate Students, Supervisor of Computer Laboratories
+       Preparing tutorials and conducted Exams
+
+    
   date:
-    detail: Nov 2017 - present, London
+    detail: July 2015 to Oct. 2015
+    
   job:
-    detail: Project Owner, Full-stack Machine Learning Engineer
+    detail: Assistant Professor
+    
   icon: fa-plus-square
 
 - name:
-    detail: Mathalope.co.uk
+    detail: College of Engineering Vadakara
+    
   desc:
     detail: >
-      I created Mathalope.co.uk to share notes and research findings in machine learning, full-stack development, and
-      programming. Since establishment the blog has been visited by 120,000+ students and professionals from
-      200+ countries. My current research focus is on combining machine learning with full-stack app development.
-      Blog Stack: WordPress, Gist, Mathjax, Markdown. Content Stack: Python, JavaScript, etc.
+        Conducted Lectures for Final Year Computer Science Undergraduate students
+        Documentation of NBA accreditation works,Prepared tutorials and conducted Exams
+        Performed Result analysis of the previous batch Students
+    
   date:
-    detail: Mar 2014 - present, London
+    detail: July 2014 to April. 2015
+    
   job:
-    detail: Author, Full-stack Machine Learning Engineer
+    detail: Assistant Professor
+    
+  icon: fa-plus-square
+  
+- name:
+    detail: Oracle Financial Services Software Ltd.
+    
+  desc:
+    detail: >
+       Project: NESS project, Client: CITI Bank
+       Project deals with screening of names from a list of people.Deployment using Maven
+       Handled Front End designing. Creating reports using Jasper Report . Daily Check in and check out of the projects.
+
+
+    
+  date:
+    detail: Sept 2011 to July 2012
+    
+  job:
+    detail: Associate Consultant
+    
   icon: fa-plus-square
 
-- name:
-    detail: Intel Software Innovator
-  desc:
-    detail: >
-      As an Intel® Software Innovator affiliate I have access to new Intel technologies (software and hardware)
-      and initiatives on creating and demonstrating forward-looking projects. Some related projects of mine include:
-      fungai.org, Life++, and HPC with Intel Xeon Phi. Current research focus mainly around AI and IoT.
-  date:
-    detail: Oct 2015 - present, London
-  job:
-    detail: Independent Developer, AI Specialist
-  icon: fa-plus-square
