@@ -1,19 +1,19 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
+- name: Weather_Analysis
   i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
+  gh_user: aswathy1891989
+  repo: Open-WeatherMap
   img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+  desc: The Open-Weather Map is a Python Script that retrieves the Weather data from across the world. The Latitudes and Longitudes across the world is selected(about 500 cities). Based on the Coordinates, nearest city is retrieved from citipy. Using the city name and country code, the weather details are obtained and observations are plotted and recorded.
 
-- name: Python
+- name: Pymaceuticals
   i18n: cpython
-  gh_user: python
-  repo: cpython
+  gh_user: master
+  repo: Pymaceuticals
   img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: Pymaceuticals is a toy project used to analyze the the data from most recent animal study by a pharmeceutical dataset. In this study, 250 mice were treated through a variety of drug regimes over the course of 45 days. Their physiological responses were then monitored over the course of that time.
 
 - name: Google
   i18n: google
