@@ -5,27 +5,27 @@
   i18n: jalpc
   gh_user: aswathy1891989
   repo: Open-WeatherMap
-  img: /static/assets/img/landing/jekyll.png
+  #img: /static/assets/img/landing/jekyll.png
   desc: The Open-Weather Map is a Python Script that retrieves the Weather data from across the world. The Latitudes and Longitudes across the world is selected(about 500 cities). Based on the Coordinates, nearest city is retrieved from citipy. Using the city name and country code, the weather details are obtained and observations are plotted and recorded.
 
 - name: Pymaceuticals
   i18n: cpython
   gh_user: aswathy1891989
   repo: Pymaceuticals
-  img: /static/assets/img/landing/python.png
+  #img: /static/assets/img/landing/python.png
   desc: Pymaceuticals is a toy project used to analyze the the data from most recent animal study by a pharmeceutical dataset. In this study, 250 mice were treated through a variety of drug regimes over the course of 45 days. Their physiological responses were then monitored over the course of that time.
 
 - name: Pyber
   i18n: jalpc
   gh_user: aswathy1891989
   repo: Pyber
-  img: /static/assets/img/landing/jekyll.png
+  #img: /static/assets/img/landing/jekyll.png
   desc: Pyber is a toy project ; it is a fledgling ride sharing company of your own. The project uses python script to analyse company's  recordset of rides. This contains information about every active driver and historic ride, including details like city, driver count, individual fares, and city type
 
 - name: PyCitySchools
   i18n: cpython
   gh_user: aswathy1891989
   repo: PyCitySchools
-  img: /static/assets/img/landing/python.png
+  #img: /static/assets/img/landing/python.png
   desc: Pycityschool is a mock  project, the script is to help the schools board and mayor make strategic decisions regarding future school budgets and priorities
 
