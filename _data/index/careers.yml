@@ -4,7 +4,7 @@
     detail: Government Engineering College Thrissur
     i18n: college_1
   desc:
-    detail: Conducting Lectures for Final Year Computer Science Undergraduate students,Mentored Undergraduate Students, Supervisor of Computer Laboratories,Preparing tutorials and conducted Exams
+    detail: Conducting Lectures for Final Year Computer Science Undergraduate students,Mentoring Undergraduate Students, Supervisor of Computer Laboratories,Preparing tutorials and conducted Exams
 
     i18n: company_a_desc
   date:
@@ -19,7 +19,7 @@
     detail: College of Engineering Vadakara
     i18n: college_2
   desc:
-    detail: Worked as Assistant Professor in Computer Science Dept.
+    detail: Conducted Lectures for Final Year Computer Science Undergraduate students, Documentation of NBA accreditation works,Prepared tutorials and conducted Exams, Performed Result analysis of the previous batch Students
     i18n: company_b_desc
   date:
     detail: July 2014 to April. 2015
@@ -33,7 +33,11 @@
     detail: Oracle Financial Services Software Ltd.
     i18n: company_3
   desc:
-    detail: 
+    detail: Project: NESS project, Client: CITI Bank
+            Project deals with screening of names from a list of people.Deployment using Maven
+            Handled Front End designing. Creating reports using Jasper Report . Daily Check in and check out of the projects.
+
+• Documentation of Project details
     i18n: company_c_desc
   date:
     detail: Sept 2011 to July 2012
