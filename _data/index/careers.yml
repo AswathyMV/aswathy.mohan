@@ -4,7 +4,8 @@
     detail: Government Engineering College Thrissur
     i18n: college_1
   desc:
-    detail: Worked as Assistant Professor in Computer Science Dept.
+    detail: Conducting Lectures for Final Year Computer Science Undergraduate students,Mentored Undergraduate Students, Supervisor of Computer Laboratories,Preparing tutorials and conducted Exams
+
     i18n: company_a_desc
   date:
     detail: July 2015 to Oct. 2015
@@ -29,10 +30,10 @@
   icon: fa-plus-square
   
 - name:
-    detail: Oracle
+    detail: Oracle Financial Services Software Ltd.
     i18n: company_3
   desc:
-    detail: I worked at Company B ...
+    detail: 
     i18n: company_c_desc
   date:
     detail: Sept 2011 to July 2012
