@@ -5,8 +5,8 @@
     i18n: college_a
   desc:
     detail: >
-       Conducting Lectures for Final Year Computer Science Undergraduate students,
-       Mentoring Undergraduate Students, Supervisor of Computer Laboratories,
+       Conducting Lectures for Final Year Computer Science Undergraduate students
+       Mentoring Undergraduate Students, Supervisor of Computer Laboratories
        Preparing tutorials and conducted Exams
 
     i18n: company_a_desc
@@ -23,8 +23,8 @@
     i18n: college_b
   desc:
     detail: >
-        Conducted Lectures for Final Year Computer Science Undergraduate students,
-        Documentation of NBA accreditation works,Prepared tutorials and conducted Exams,
+        Conducted Lectures for Final Year Computer Science Undergraduate students
+        Documentation of NBA accreditation works,Prepared tutorials and conducted Exams
         Performed Result analysis of the previous batch Students
     i18n: company_b_desc
   date:
@@ -44,7 +44,7 @@
        Project deals with screening of names from a list of people.Deployment using Maven
        Handled Front End designing. Creating reports using Jasper Report . Daily Check in and check out of the projects.
 
-• Documentation of Project details
+
     i18n: company_c_desc
   date:
     detail: Sept 2011 to July 2012
