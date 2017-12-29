@@ -1,10 +1,13 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Government Engineering College Thrissur
-    i18n: college_1
+    detail: Government Engineering College Thrissur(http://gectcr.ac.in/)
+    i18n: college_a
   desc:
-    detail: Conducting Lectures for Final Year Computer Science Undergraduate students,Mentoring Undergraduate Students, Supervisor of Computer Laboratories,Preparing tutorials and conducted Exams
+    detail: >
+       Conducting Lectures for Final Year Computer Science Undergraduate students,
+       Mentoring Undergraduate Students, Supervisor of Computer Laboratories,
+       Preparing tutorials and conducted Exams
 
     i18n: company_a_desc
   date:
@@ -17,9 +20,12 @@
 
 - name:
     detail: College of Engineering Vadakara
-    i18n: college_2
+    i18n: college_b
   desc:
-    detail: Conducted Lectures for Final Year Computer Science Undergraduate students, Documentation of NBA accreditation works,Prepared tutorials and conducted Exams, Performed Result analysis of the previous batch Students
+    detail: >
+        Conducted Lectures for Final Year Computer Science Undergraduate students,
+        Documentation of NBA accreditation works,Prepared tutorials and conducted Exams,
+        Performed Result analysis of the previous batch Students
     i18n: company_b_desc
   date:
     detail: July 2014 to April. 2015
@@ -31,11 +37,12 @@
   
 - name:
     detail: Oracle Financial Services Software Ltd.
-    i18n: company_3
+    i18n: company_c
   desc:
-    detail: Project: NESS project, Client: CITI Bank
-            Project deals with screening of names from a list of people.Deployment using Maven
-            Handled Front End designing. Creating reports using Jasper Report . Daily Check in and check out of the projects.
+    detail: >
+       Project: NESS project, Client: CITI Bank
+       Project deals with screening of names from a list of people.Deployment using Maven
+       Handled Front End designing. Creating reports using Jasper Report . Daily Check in and check out of the projects.
 
 • Documentation of Project details
     i18n: company_c_desc
