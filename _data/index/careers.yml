@@ -16,7 +16,7 @@
   job:
     detail: Assistant Professor
     
-  icon: fa-plus-square
+  icon: fa-book
 
 - name:
     detail: College of Engineering Vadakara
@@ -33,7 +33,7 @@
   job:
     detail: Assistant Professor
     
-  icon: fa-plus-square
+  icon: fa-book
   
 - name:
     detail: Oracle Financial Services Software Ltd.
@@ -52,5 +52,6 @@
   job:
     detail: Associate Consultant
     
-  icon: fa-plus-square
+  icon: fa-laptop
+
 
