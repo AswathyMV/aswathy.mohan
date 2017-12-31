@@ -9,6 +9,6 @@ tags: [Jalpc,Jekyll]
 icon: icon-html
 ---
 
-I just spent one day building this blog with Jekyll and github page and it's now up. Many thanks to Jalpc Jekyll Blog and <https://atlas7.github.io/> which I  git cloned and tweaked to avoid building from scratch. 
+I just spent one day building this blog with Jekyll and github page and it's now up. Many thanks to Jalpc Jekyll Blog and hich I  git cloned and tweaked to avoid building from scratch. 
 
 
