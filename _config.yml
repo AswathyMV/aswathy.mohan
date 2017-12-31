@@ -21,7 +21,7 @@ author:  # change following line to your infomation.
   facebook_username: aswathy18989  # Leave blank if you don't have now
   twitter_username: aswathy1891989  # Leave blank if you don't have now
   email: aswathy1891989@gmail.com  # Leave blank if you don't have now # Leave blank if you don't have now
-  #cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
+  cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-apache
@@ -33,12 +33,12 @@ author:  # change following line to your infomation.
     - name: icon-javascript-alt
     - name: fa-linux
  
-  desc: Welcome to My page. I am an Independent Self Paced Learner, working on Machine Learning and Convolutional Neural Networks.
+  desc: I am an Independent Self Paced Learner, working on Machine Learning and Convolutional Neural Networks.
         I have done my Master's in Computer Science, with passion in doing research in AI and Machine Learning,
         data analysis and decision making. From Associate Consultant in Oracle and Assistant Professor in  College, 
         and I’ve developed a deep understanding of the importance of data and decision making over my two years in the field.
         Currently, I work on Kaggle Datasets, where I am focused on analyzing and prediction.
-        Am Passionate aboute Cooking and Paintings and  mother of a One year Old.
+        
   # Describe yourself.
 
 # comment
