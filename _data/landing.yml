@@ -34,5 +34,5 @@
 - id: links
   i18n: nav.link
   name: Links
-  tpl: link.html
+  tpl: links.html
   css: contact
