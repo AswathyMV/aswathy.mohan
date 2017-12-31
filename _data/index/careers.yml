@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Government Engineering College Thrissur(http://gectcr.ac.in/)
+    detail: Government Engineering College Thrissur
  
   desc:
     detail: >
@@ -40,7 +40,7 @@
     
   desc:
     detail: >
-       Project: NESS project, Client: CITI Bank
+       Project: Namescreening for a Major Financial Institution
        Project deals with screening of names from a list of people.Deployment using Maven
        Handled Front End designing. Creating reports using Jasper Report . Daily Check in and check out of the projects.
 
