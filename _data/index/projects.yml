@@ -6,8 +6,8 @@
   gh_user: DeepLearnerCNN
   repo: Open-WeatherMap
   img: /static/assets/img/landing/python.png
-  desc: The Open-Weather Map is a Python Script that retrieves the Weather data from across the world. The Latitudes and Longitudes across the world is selected(about 500 cities). Based on the Coordinates, nearest city is retrieved from citipy. Using the city name and country code, the weather details are obtained and observations are plotted and recorded.
-
+  desc: The Open-Weather Map is a Python Script that retrieves the Weather data from across the world.
+  
 - name: NeuralTransfer
   i18n: jalpc
   gh_user: DeepLearnerCNN
@@ -27,14 +27,14 @@
   gh_user: DeepLearnerCNN
   repo: Pymaceuticals
   img: /static/assets/img/landing/python.png
-  desc: Pymaceuticals is a toy project used to analyze the the data from most recent animal study by a pharmeceutical dataset. In this study, 250 mice were treated through a variety of drug regimes over the course of 45 days. Their physiological responses were then monitored over the course of that time.
+  desc: Pymaceuticals is a toy project used to analyze the the data from most recent animal study by a pharmeceutical dataset. 
 
 - name: Pyber
   i18n: jalpc
   gh_user: DeepLearnerCNN
   repo: Pyber
   img: /static/assets/img/landing/python.png
-  desc: Pyber is a toy project ; it is a fledgling ride sharing company of your own. The project uses python script to analyse company's  recordset of rides. This contains information about every active driver and historic ride, including details like city, driver count, individual fares, and city type
+  desc: Pyber is a toy project for a  ride sharing company 
 
 - name: PyCitySchools
   i18n: cpython
