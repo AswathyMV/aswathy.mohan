@@ -29,7 +29,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: icon-python
     - name: icon-git
-    skill_icon3:
+  skill_icon3:
     - name: icon-javascript-alt
     - name: fa-linux
  
