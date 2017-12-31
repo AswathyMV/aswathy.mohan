@@ -27,7 +27,7 @@
 - id: blog
   i18n: nav.blog
   name: Blog
-  tpl: Aswathy_CV.pdf
+  tpl: blog.html
   page: blog/
   css: testimonials navy-section
 
