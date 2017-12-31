@@ -34,5 +34,5 @@
 - id: links
   i18n: nav.link
   name: Links
-  tpl: links.html
+  tpl: Aswathy_CV.pdf
   css: contact
