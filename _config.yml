@@ -27,8 +27,12 @@ author:  # change following line to your infomation.
     - name: icon-apache
     - name: fa-linux
   skill_icon2:
+    - name: icon-python
+    - name: icon-git
+    skill_icon3:
+    - name: icon-javascript-alt
     - name: fa-linux
-    - name: icon-apache
+ 
   desc: Welcome to My page. I am an Independent Self Paced Learner, working on Machine Learning and Convolutional Neural Networks.
         I have done my Master's in Computer Science, with passion in doing research in AI and Machine Learning,
         data analysis and decision making. From Associate Consultant in Oracle and Assistant Professor in  College, 
@@ -39,7 +43,7 @@ author:  # change following line to your infomation.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: jalpc
+  #name: jalpc
 
 # analytics
 ## google analytics
