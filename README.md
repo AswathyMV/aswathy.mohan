@@ -6,5 +6,5 @@
 
 <https://DeepLearnerCNN.github.io/aswathy.mohan/>
 
-![Blog](https://github.com/DeepLearnerCNN/aswathy.mohan/static/assets/img/landing/NN_Transfer_out.jpg)
+![Blog](/static/assets/img/landing/NN_Transfer_out.jpg)
 This is the repository for my personal website using Jekyll and github. Many thanks to Jalpc Jekyll Blog which I git cloned and tweaked to avoid building from scratch.
