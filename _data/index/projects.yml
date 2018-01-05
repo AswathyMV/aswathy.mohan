@@ -26,7 +26,7 @@
   i18n: cpython
   gh_user: DeepLearnerCNN
   repo: amfromBot
-  img: fa-twitter
+  img: /static/assets/img/landing/twitter-icon.png
   desc: A twitter Bot that does sentiment analysis that searches for a given hashtag every 5 minutes. 
 
 - name: Pymaceuticals
