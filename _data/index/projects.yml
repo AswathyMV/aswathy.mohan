@@ -2,7 +2,7 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
-name: jobfit
+- name: jobfit
   i18n: jalpc
   gh_user: AswathyMohan89
   repo: jobfit
