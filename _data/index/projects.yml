@@ -4,10 +4,9 @@
 
 - name: jobfit
   i18n: jalpc
-  gh_user: AswathyMohan89
-  repo: jobfit
+  url:  http://athenajobfitt.herokuapp.com/index 
   img: /static/assets/img/landing/JobFit.png
-  desc: http://athenajobfitt.herokuapp.com/index .A Recommendation System to indicate top highly likely position titles with mapping salary that would fit a given job seeker’s current skills, education, education level, years of experience and other factors.
+  desc: A Recommendation System to indicate top highly likely position titles with mapping salary that would fit a given job seeker’s current skills, education, education level, years of experience and other factors.
   
 - name: Weather_Analysis
   i18n: jalpc
