@@ -24,13 +24,13 @@
 - name: Sesimic Activity
   i18n: jalpc
   url: https://aswathymohan89.github.io/Earthquake/  
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/earthquake.PNG
   desc: Visualization of Sesimic Activity in US for last 7 days.
 
 - name: NeuralTransfer
   i18n: jalpc
   gh_user: AswathyMohan89
   repo: NeuralTransfer
-  img: /static/assets/img/landing/python.png
+  img: /static/assets/img/landing/neural.PNG
   desc: Implementation of Artistcti Neural Style Transfer by Gatys et al. (2015) (https://arxiv.org/abs/1508.06576).
   
