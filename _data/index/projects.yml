@@ -3,13 +3,13 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
 - name: JobFitt
-  i18n: JobFitt
+  i18n: jalpc
   url:  http://athenajobfitt.herokuapp.com/index 
   img: /static/assets/img/landing/JobFit.png
   desc: A Recommendation System to indicate top highly likely position titles with mapping salary that would fit a given job seeker’s current skills, education, education level, years of experience and other factors.
   
 - name: Jamalyze
-  i18n: Jamalyze
+  i18n: jalpc
   url:  https://jamalyze.herokuapp.com/
   img: /static/assets/img/landing/jamalyze.PNG
   desc: What is the concert landscape of the United States for the next year? This application explores concert trends across the nation in regards to genre, price, and location.
@@ -21,10 +21,16 @@
   desc: Visualization of Sesimic Activity in US for last 7 days. Data Collected from USGS, visualized using GeoJson and Leaflet.
 
 - name: Mental Health Analysis across US from 2012-2016
-  i18n: Mental Health Analysis across US from 2012-2016
+  i18n: jalpc
   gh_user: AswathyMohan89
   repo: Mental-Health-Analysis-US-2012-2016
   img: /static/assets/img/landing/mental.PNG
   desc: Analysis conducted on the mental health of people in US based on the data obtained from Centers for Disease Control and Prevention(CDC) to find trends based on employment, ethnicity, age, gender and location.
+  
+- name: Belly Button BioDiversity
+  i18n: jalpc
+  url: https://belly-button-bio.herokuapp.com/
+  img: /static/assets/img/landing/mental.PNG
+  desc: The belly button is one of the habitats closest to us, and yet it remains relatively unexplored. This project combines the power of Python with Javascript, CSS and HTML, to explore the patterns and species found in the bellybutton.
   
   
