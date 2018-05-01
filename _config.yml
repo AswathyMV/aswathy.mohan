@@ -3,19 +3,19 @@
 # Website settings
 title: Aswathy Mohan
 
-keywords: deep learning, ai, data science, python, pandas, keras
+keywords: data science, python, pandas, keras,d3, machine learning, leaflet, portfolio, jekyll, jalpc, Aswathy
 
 #baseurl:  /Jalpc # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: http://AswathyMohan89.github.io/aswathy.mohan # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
-img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+#img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
   name: Aswathy Mohan  # Be used at blog posts' author.
   first_name: Aswathy  # Be used at index page about me section.
   last_name: Mohan  # Be used at index page about me section.
-  avatar: /static/assets/img/landing/my_logo.jpg  # upload your avatar at directory and edit it.
+  avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: AswathyMohan89  # Leave blank if you don't have now
   linkedin_id: aswathy1891989 # Leave blank if you don't have now
   facebook_username: aswathy18989  # Leave blank if you don't have now
@@ -33,11 +33,9 @@ author:  # change following line to your infomation.
     - name: icon-javascript-alt
     - name: fa-linux
  
-  desc: I am an Independent Self Paced Learner, working on Machine Learning and Convolutional Neural Networks.
-        I have done my Master's in Computer Science, with passion in doing research in AI and Machine Learning,
-        data analysis and decision making. From Associate Consultant in Oracle and Assistant Professor in  College, 
-        and I’ve developed a deep understanding of the importance of data and decision making over my two years in the field.
-        Currently, I work on Kaggle Datasets, where I am focused on analyzing and prediction. For detailed CV click on the pdf icon above
+  desc: Full Stack Data Analyst with a passion of finding hidden gems in data and combining the magic of JavaScript with databases(NoSql and Sql)
+        for developing intricate Visualizations. Am a Postgraduate in Computer Science and experienced as 
+        full stack developer and Assistant Professor, with a deep understanding of the importance of data and decision making.
         
   
         
