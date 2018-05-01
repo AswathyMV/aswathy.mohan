@@ -6,21 +6,13 @@
 - name: Python
   href: /python/
 
-- name: Linux
-  href: /linux/
+- name: Heroku
+  href: /Heroku/
 
 - name: HTML
   href: /html/
 
-- name: Database
+- name: MongoDB
   href: /database/
 
-- name: Mac
-  href: /mac/
 
-- name: Life
-  href: /life/
-
-# Don't display donation page: change donation to off at file '_config.yml'
-- name: Donate
-  href: /donate/
