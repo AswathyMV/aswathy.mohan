@@ -20,16 +20,16 @@
   img: /static/assets/img/landing/earthquake.PNG
   desc: Visualization of Sesimic Activity in US for last 7 days. Data Collected from USGS, visualized using GeoJson and Leaflet.
   
-- name: Belly Button BioDiversity
-  i18n: jalpc
-  url: https://belly-button-bio.herokuapp.com/
-  img: /static/assets/img/landing/belly.PNG
-  desc: The belly button is one of the habitats closest to us, and yet it remains relatively unexplored. This project combines the power of Python with Javascript, CSS and HTML, to explore the patterns and species found in the bellybutton.
-  
 - name: Mental Health Analysis across US from 2012-2016
   i18n: jalpc
   gh_user: AswathyMohan89
   repo: Mental-Health-Analysis-US-2012-2016
   img: /static/assets/img/landing/mental.PNG
   desc: Analysis conducted on the mental health of people in US based on the data obtained from Centers for Disease Control and Prevention(CDC) to find trends based on employment, ethnicity, age, gender and location.
+  
+- name: Belly Button BioDiversity
+  i18n: jalpc
+  url: https://belly-button-bio.herokuapp.com/
+  img: /static/assets/img/landing/belly.PNG
+  desc: The belly button is one of the habitats closest to us, and yet it remains relatively unexplored. This project combines the power of Python with Javascript, CSS and HTML, to explore the patterns and species found in the bellybutton.
   
