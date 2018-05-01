@@ -8,9 +8,14 @@
   img: /static/assets/img/landing/JobFit.png
   desc: A Recommendation System to indicate top highly likely position titles with mapping salary that would fit a given job seeker’s current skills, education, education level, years of experience and other factors.
   
+- name: Sesimic Activity
+  i18n: jalpc
+  url: https://aswathymohan89.github.io/Earthquake/  
+  img: /static/assets/img/landing/python.png
+  desc: Visualization of Sesimic Activity in US for last 7 days.
+  
 - name: Weather_Analysis
   i18n: jalpc
-  gh_user: AswathyMohan89 
   repo: Open-WeatherMap
   img: /static/assets/img/landing/python.png
   desc: The Open-Weather Map is a Python Script that retrieves the Weather data from across the world.
