@@ -18,7 +18,7 @@
   i18n: jalpc
   url: https://aswathymohan89.github.io/Earthquake/  
   img: /static/assets/img/landing/earthquake.PNG
-  desc: Visualization of Sesimic Activity in US for last 7 days.
+  desc: Visualization of Sesimic Activity in US for last 7 days. Data Collected from USGS, visualized using GeoJson and Leaflet.
 
 - name: Mental Health Analysis across US from 2012-2016
   i18n: Mental Health Analysis across US from 2012-2016
