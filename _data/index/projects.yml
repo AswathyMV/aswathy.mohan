@@ -2,24 +2,31 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
-- name: jobfit
-  i18n: jalpc
+- name: JobFitt
+  i18n: JobFitt
   url:  http://athenajobfitt.herokuapp.com/index 
   img: /static/assets/img/landing/JobFit.png
   desc: A Recommendation System to indicate top highly likely position titles with mapping salary that would fit a given job seeker’s current skills, education, education level, years of experience and other factors.
+  
+- name: Jamalyze
+  i18n: Jamalyze
+  url:  https://jamalyze.herokuapp.com/
+  img: /static/assets/img/landing/jamalyze.png
+  desc: What is the concert landscape of the United States for the next year? This application explores concert trends across the nation in regards to genre, price, and location.
+
+- name: Mental Health Analysis across US from 2012-2016
+  i18n: Mental Health Analysis across US from 2012-2016
+  gh_user: AswathyMohan89
+  repo: Mental-Health-Analysis-US-2012-2016
+  img: /static/assets/img/landing/mental.png
+  desc: Analysis conducted on the mental health of people in US based on the data obtained from Centers for Disease Control and Prevention(CDC) to find trends based on employment, ethnicity, age, gender and location.
   
 - name: Sesimic Activity
   i18n: jalpc
   url: https://aswathymohan89.github.io/Earthquake/  
   img: /static/assets/img/landing/python.png
   desc: Visualization of Sesimic Activity in US for last 7 days.
-  
-- name: Weather_Analysis
-  i18n: jalpc
-  repo: Open-WeatherMap
-  img: /static/assets/img/landing/python.png
-  desc: The Open-Weather Map is a Python Script that retrieves the Weather data from across the world.
-  
+
 - name: NeuralTransfer
   i18n: jalpc
   gh_user: AswathyMohan89
@@ -27,38 +34,3 @@
   img: /static/assets/img/landing/python.png
   desc: Implementation of Artistcti Neural Style Transfer by Gatys et al. (2015) (https://arxiv.org/abs/1508.06576).
   
-- name: VisualizingBankingDesserts
-  i18n: cpython
-  gh_user: AswathyMohan89
-  repo: BankingDesserts
-  img: /static/assets/img/landing/python.png
-  desc: The python script uncovers the well-known phenomenon of Banking Deserts.
-
-- name: Twitter sentiment Bot
-  i18n: cpython
-  gh_user: AswathyMohan89
-  repo: amfromBot
-  img: /static/assets/img/landing/twitter-icon.png
-  desc: A twitter Bot that does sentiment analysis that searches for a given hashtag every 5 minutes. 
-
-- name: Pymaceuticals
-  i18n: cpython
-  gh_user: AswathyMohan89
-  repo: Pymaceuticals
-  img: /static/assets/img/landing/python.png
-  desc: Pymaceuticals is a toy project used to analyze the the data from most recent animal study by a pharmeceutical dataset. 
-
-- name: Pyber
-  i18n: jalpc
-  gh_user: AswathyMohan89
-  repo: Pyber
-  img: /static/assets/img/landing/python.png
-  desc: Pyber is a toy project for a  ride sharing company 
-
-- name: PyCitySchools
-  i18n: cpython
-  gh_user: AswathyMohan89
-  repo: PyCitySchools
-  img: /static/assets/img/landing/python.png
-  desc: Pycityschool is a mock  project, the script is to help the schools board and mayor make strategic decisions regarding future school budgets and priorities
-
