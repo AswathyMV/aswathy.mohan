@@ -27,10 +27,4 @@
   img: /static/assets/img/landing/mental.PNG
   desc: Analysis conducted on the mental health of people in US based on the data obtained from Centers for Disease Control and Prevention(CDC) to find trends based on employment, ethnicity, age, gender and location.
   
-- name: NeuralTransfer
-  i18n: jalpc
-  gh_user: AswathyMohan89
-  repo: NeuralTransfer
-  img: /static/assets/img/landing/neural.PNG
-  desc: Implementation of Artistcti Neural Style Transfer by Gatys et al. (2015) (https://arxiv.org/abs/1508.06576).
   
