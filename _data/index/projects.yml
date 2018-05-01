@@ -14,6 +14,12 @@
   img: /static/assets/img/landing/jamalyze.PNG
   desc: What is the concert landscape of the United States for the next year? This application explores concert trends across the nation in regards to genre, price, and location.
 
+- name: Sesimic Activity
+  i18n: jalpc
+  url: https://aswathymohan89.github.io/Earthquake/  
+  img: /static/assets/img/landing/earthquake.PNG
+  desc: Visualization of Sesimic Activity in US for last 7 days.
+
 - name: Mental Health Analysis across US from 2012-2016
   i18n: Mental Health Analysis across US from 2012-2016
   gh_user: AswathyMohan89
@@ -21,12 +27,6 @@
   img: /static/assets/img/landing/mental.PNG
   desc: Analysis conducted on the mental health of people in US based on the data obtained from Centers for Disease Control and Prevention(CDC) to find trends based on employment, ethnicity, age, gender and location.
   
-- name: Sesimic Activity
-  i18n: jalpc
-  url: https://aswathymohan89.github.io/Earthquake/  
-  img: /static/assets/img/landing/earthquake.PNG
-  desc: Visualization of Sesimic Activity in US for last 7 days.
-
 - name: NeuralTransfer
   i18n: jalpc
   gh_user: AswathyMohan89
