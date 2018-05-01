@@ -10,12 +10,12 @@
             {% assign loopindex = forloop.index | modulo: 2 %}
             {% if forloop.last %}
                 {% if forloop.last == forloop.first %}
-            <div class="col-md-4 wow col-sm-offset-3 zoomIn">
+            <div class="col-sm-12 wow col-sm-offset-3 zoomIn">
                 {% else %}
-            <div class="col-md-4 wow {% if loopindex == 1 %} fadeInLeft  {% else %} fadeInRight {% endif %}">
+            <div class="col-sm-12 wow {% if loopindex == 1 %} fadeInLeft  {% else %} fadeInRight {% endif %}">
                 {% endif %}
             {% else %}
-            <div class="col-md-4 wow {% if loopindex == 1 %} fadeInLeft {% else %} fadeInRight {% endif %}">
+            <div class="col-sm-12 wow {% if loopindex == 1 %} fadeInLeft {% else %} fadeInRight {% endif %}">
             {% endif %}
               <div class="team-member">
                   <img src="{{ project.img | prepend: site.baseurl }}" class="img-responsive img-circle img-small" alt="">
